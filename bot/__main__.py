@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @WhiteDevilOp999
+# (c) @Wamd13
 
 from .bot import Bot
 
